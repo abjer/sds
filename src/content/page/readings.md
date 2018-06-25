@@ -1,0 +1,284 @@
+---
+title: Course readings
+date: 2018-06-21
+markup: mmark
+---
+
+
+Textbook for general introduction to social data science:  
+- **[Big by Bit - Social research in the digital age](https://www.bitbybitbook.com/)** by Matthew J. Salganik **[BBB]**
+
+Textbooks for data science in Python   
+- **[Python for Data Analysis, 2nd ed.](http://wesmckinney.com/pages/book.html)** (2017) by Wes McKinney **[PDA]**
+- **[Python Machine Learning, 2nd ed.](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-second-edition)** (2017) by Sebastian Raschka & Vahid Mirjalili **[PML]**
+
+## Session 1a & 1b: Introduction to SDS and Python
+
+#### Required readings
+
+**Introduction to Social Data Science**
+- BBB: chapter 1
+
+- Grimmer, Justin. ["We are all social scientists now: how big data, machine learning, and causal inference work together."](https://web.stanford.edu/~jgrimmer/bd_2.pdf) *PS: Political Science & Politics* 48.1 (2015): 80-83.
+
+**Python programming**
+
+- DataCamp Python for data science tutorials: [introduction](https://www.datacamp.com/courses/intro-to-python-for-data-science), [intermediate level](https://www.datacamp.com/courses/intermediate-python-for-data-science) (JOIN OUR GROUP!)
+
+- [The Scientist: Get With the Program](http://www.the-scientist.com/?articles.view/articleNo/43632/title/Get-With-the-Program/)
+
+- Read chapters 2 and 3 in Python for Data Analysis
+
+#### Inspirational reading
+
+If you’re interested, and want to delve deeper into coding and programming (you certainly don’t have to, they are not required for this course), we highly recommend the following posts:
+
+- [Why learn Python](https://www.continuum.io/why-python)
+- [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/?cmpid=twtr1)
+
+A broad, early, and easy-to-read idea of data driven (social) science:
+
+- Anderson, Chris. 2008. "[The end of theory: The data deluge makes the scientific method obsolete](http://www.uvm.edu/~cmplxsys/wordpress/wp-content/uploads/reading-group/pdfs/2008/anderson2008.pdf)." *Wired*, 16-07.
+
+## Session 2: Reproducible research
+
+#### Required reading
+- BBB: Chapter 3 & 4
+- Nolan, John. 2015. "[How to Write Faster, Better & Longer: The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)."
+- Jones, Zachery. 2015. "[Git & Github tutorial](http://zmjones.com/git-github-tutorial/)".
+ - Note that an optional followup can be found in Rainey, Carlisle. 2015. "[Git for Political Science](https://github.com/carlislerainey/git-for-political-science)".
+
+## Session 3: Strings, queries and APIs
+
+We start to leverage our python knowledge to make queries on the web. This allows us to pull data directly from Statistics Denmark's API.
+
+#### Required reading
+- PDA, sections 6.1, 6.3, 7.3.
+
+## Session 4: Data structuring 1
+
+We learn basic processing with the Python modules, [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [numpy](http://www.numpy.org/). This includes file input/output, arithmetics, slicing data etc.
+
+#### Required reading
+- PDA, chapter 5, sections 4.1, 6.1, 6.2.
+
+
+
+#### Additional resources for data structuring
+
+There are many good resources for learning how to master data structuring. See below for two ways of self-learning:
+
+- Rada, Greg. 2013. "[Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)"- read all three sections.
+- DataCamp offers further smaller courses on Pandas and data structuring
+
+
+## Session 5: Intro to visualization
+
+We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [seaborn](https://seaborn.pydata.org/index.html). Both these modules are built on the fundamental and flexible plotting module [matplotlib](https://matplotlib.org).
+
+#### Required reading
+- PDA, chapter 9
+- Christ Moffitt, 2017. ["Effectively Using Matplotlib"](http://pbpython.com/effective-matplotlib.html)
+- Read sections 1-3 in: Wickham, Hadley. 2010. "[A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf)". *Journal of Computational and Graphical Statistics*, Volume 19, Number 1, Pages 3–28.
+
+
+#### Inspirational reading
+
+- Schwabish, Jonathan A. 2014. "[An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles.php?doi=10.1257/jep.28.1.209)". *Journal of Economic Perspectives*, 28(1): 209-34.
+- Healy, Kieran and James Moody. 2014. "[Data Visualization in Sociology](http://kieranhealy.org/files/papers/data-visualization.pdf)". *Annual Review of Sociology*, 40:105–128.
+
+
+## Sessions 6: Data structuring 2
+We learn about missing data, data transformation, categorical data and temporal data.  [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [numpy](http://www.numpy.org/).
+
+#### Required reading
+
+- PDA, chapter 7 and sections 11.1, 11.2.
+- PML, chapter 4, section 'Handling categorical data'.
+
+
+## Session 7: Data structuring 3
+
+We learn two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
+
+#### Required reading
+- PDA, chapters 8 and 10
+- Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
+
+
+## Session 8: Scraping 1 - Data Collection
+- Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.
+(copies will be provided).
+- Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
+
+**Inspiration**
+
+Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.
+
+- Stephens-Davidowitz, Seth. 2014. "[The cost of racial animus on a black candidate: Evidence using Google search data](http://www.sciencedirect.com/science/article/pii/S0047272714000929)." *Journal of Public Economics*, 118: 26-40.
+
+- Stephens-Davidowitz, Seth, Hal Varian, and Michael D. Smith. 2016. "[Super Returns to Super Bowl Ads?](http://people.ischool.berkeley.edu/~hal/Papers/2015/super.pdf)". R & R, *Journal of Political Economy*.
+
+- Stephens-Davidowitz, Seth, and Hal Varian. 2015 "[A Hands-on Guide to Google Data](https://www.aeaweb.org/aea/2016conference/program/retrieve.php?pdfid=772)." Google working paper.
+
+- Barberá, Pablo. 2015. "[Birds of the same feather tweet together: Bayesian ideal point estimation using Twitter data](http://pan.oxfordjournals.org/content/23/1/76.short)." *Political Analysis*, 23.1: 76-91.
+
+- Cavallo, A. (2018). ["Scraped data and sticky prices"](https://www.mitpressjournals.org/doi/abs/10.1162/REST_a_00652). *Review of Economics and Statistics*, 100(1).
+
+- Bond, Robert M., et al. 2012. "[A 61-million-person experiment in social influence and political mobilization](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3834737/)." *Nature*, 489.7415: 295-298.
+
+
+## Session 9: Scraping 2 - Parsing
+- Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
+
+**Supplementary**
+- Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
+
+
+## Session 10: Ethics and Big Data Intro
+#### Required readings
+
+Ethics
+- BBB: chapter 6
+- Vox.com ["The Cambridge Analytica Facebook scandal."]( https://www.vox.com/2018/4/10/17207394/cambridge-analytica-facebook-zuckerberg-trump-privacy-scandal)
+- material on GDPR, TBA
+
+Big data
+- BBB: chapter 2 + sections 3.1, 3.2
+- Lazer, David and Jason Radford. 2017. ["Data ex Machina. Introduction to Big Data."]( http://www.annualreviews.org/doi/abs/10.1146/annurev-soc-060116-053457) *Annual Review of Sociology* vol 43, August.
+- Einav and Levin: Economics in the Age of Big Data. *Science*. 2013. [Link](http://www.sciencemag.org/content/346/6210/1243089.full.pdf?keytype=ref&siteid=sci&ijkey=Jj7wCy7hhth4M).
+- Edelman, Benjamin. 2012. "[Using internet data for economic research](http://www.jstor.org/stable/41495310)." *The Journal of Economic Perspectives*, 26.2: 189-206.
+
+
+#### Inspirational readings
+
+- Jesse Singal. 2015. "[The Case of the Amazing Gay-Marriage Data: How a Graduate Student Reluctantly Uncovered a Huge Scientific Fraud](http://nymag.com/scienceofus/2015/05/how-a-grad-student-uncovered-a-huge-fraud.html)." New York Magazine.
+- Athey, Susan. 2017. ["Beyond prediction: Using big data for policy problems"](http://science.sciencemag.org/content/355/6324/4832017). *Science*
+- Christine L. Borgman. Provocations, What Are Data and Data Scholarship in the Social Science. Chapters 1,2 and 6 in *Big Data, Little Data, No Data*. MIT Press 2015. (copies will be provided).
+
+
+
+## Session 11: Machine learning intro
+
+We introduce basic machine learning concepts. We start with the simple machine learning models for classification problems.
+
+#### Required readings
+
+- PML, chapters 1,2 and the following section from chapter 3:
+  - Modeling class probabilities via logistic regression
+  - Maximum margin classification with support vector machines
+
+
+## Session 12: Supervised learning 1
+
+We explain the overfitting problem of modelling. We show one possible solution is regularization of standard linear models.
+
+#### Required readings
+
+- PML, chapter 3, the following sections:
+  - Tackling overfitting via regularization
+  - K-nearest neighbors – a lazy learning algorithm
+  - Partitioning a dataset into separate training and test sets
+- PML, chapter 4, the following sections:
+  - Bringing features onto the same scale
+  - Selecting meaningful features
+- PML, chapter 10, the following sections:
+  - Introducing linear regression
+  - Implementing an ordinary least squares linear regression model
+  - Evaluating the performance of linear regression models
+  - Using regularized methods for regression
+  - Turning a linear regression model into a curve – polynomial regression
+
+#### Inspirational readings
+
+- Kleinberg, J., Ludwig, J., Mullainathan, S. and Obermeyer, Z., 2015. ["Prediction policy problems."](https://www.aeaweb.org/articles?id=10.1257/aer.p20151023) *American Economic Review*, 105(5), pp.491-95.
+
+
+
+## Session 13: Supervised learning 2
+
+We introduce cross validation to gauge overfitting. We introduce principal component analysis for dimensionality reduction.
+
+#### Required readings
+
+- PML, chapter 6 and the following section from chapter 5:
+  - Unsupervised dimensionality reduction via principal component analysis
+
+
+## Session 14: Supervised learning 3
+
+We learn about two new classes of machine learning models: neighbor based models and tree based methods. These two non-parametric classes of models are easy to apply and extremely useful.
+
+#### Required readings
+
+- PML, following sections in chapters 3 and 4:
+  - K-nearest neighbors – a lazy learning algorithm
+  - Decision tree learning
+  - Assessing feature importance with random forests
+
+- Mullainathan, Sendhil, and Jann Spiess. 2017. ["Machine Learning: An Applied Econometric Approach."](https://www.aeaweb.org/articles?id=10.1257/jep.31.2.87) *Journal of Economic Perspectives*, 31 (2): 87-106.
+
+- Varian, Hal. 2012 [Big Data: New Tricks for Econometrics](http://people.ischool.berkeley.edu/~hal/Papers/2013/ml.pdf)
+
+- Athey, Susan. 2018. [The Impact of Machine Learning on Economics](http://www.nber.org/chapters/c14009.pdf) *NBER*
+
+- BBB: sections 4.1, 4.2
+
+
+## Session 15: Text data 1
+
+#### Required readings
+
+- PML, following sections from chapter 8:
+  - Preparing the IMDb movie review data for text processing
+  - Introducing the bag-of-words model
+  - Training a logistic regression model for document classification
+  - Working with bigger data – online algorithms and out-of-core learning
+
+- Gentzkow, M., Kelly, B.T. and Taddy, M., 2017. ["Text as data"](http://www.nber.org/papers/w23276.pdf) (No. w23276). *National Bureau of Economic Research*.
+
+- Grimmer, Justin, and Brandon M. Stewart. 2013. "[Text as data: The promise and pitfalls of automatic content analysis methods for political texts](https://pan.oxfordjournals.org/content/early/2013/01/21/pan.mps028.short)." *Political Analysis*, 21.3: 267-297.
+
+#### Inspirational readings
+
+- King, G., Pan, J., & Roberts, M. E. 2013. [How censorship in China allows government criticism but silences collective expression](http://gking.harvard.edu/files/censored.pdf). *American Political Science Review*, 107(02), 326-343.
+
+- Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
+
+## Session 16: Cluster analysis
+#### Required readings
+
+- PML, chapter 11
+
+## Session 17: Text data 2
+#### Required readings
+- PML, following part in chapter 8:
+  - Topic modeling with Latent Dirichlet Allocation
+- Chapter 18. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
+
+
+## Session 18: Tools for Big Data
+We run through some examples of how to do parallel processing in Python and get a short introducion to MapReduce.
+
+#### Required readings
+* Sebastian Raschka. 2014. "[An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)"
+* Grus, Joel. [Data science from scratch: first principles with python. Chapter 24.](http://ulfaslak.com/files/DSfS_chapter_24.pdf) "O'Reilly Media, Inc.", 2015.
+
+
+## Miscellaneous
+
+#### Other data types
+
+In our [follow up course](https://github.com/abjer/tsds/wiki) we teach advanced tools for text data and new data types. The new data types include spatial data and network data. If you are interesting in working with
+
+- For spatial data we recommend [GeoPandas](https://github.com/geopandas/geopandas) which provides an overlay of Pandas for spatial visualizations and analysis - see tutorials for [making visualizations](https://geohackweek.github.io/vector/04-geopandas-intro/) or [computing features](https://automating-gis-processes.github.io/2016/Lesson2-geopandas-basics.html).
+
+- For network data we recommend using [NetworkX](https://networkx.github.io/) - a tutorial for NetworkX is found [here](https://networkx.github.io/documentation/networkx-1.10/tutorial/index.html).
+
+#### Python vs R
+
+Some students may have noticed that the course in 2015 and 2016 used R for data science, however, we have now opted for Python. Two of the main reasons are that Python has more simple syntax with more flexibility applications, making it easier to learn and better to structure data. In addition Python has a more extensive support for machine learning models as well as Big Data applications. See a thorough discussion of advantages between the two programs here:
+
+- [Python vs. R](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
+
+If you are already familiar with R and prefer to work with R in the exercises you may look Kosuke Imai's book on Quantitative Social Science and looking up earlier year's references [here](http://sebastianbarfort.github.io/sds_summer/). Note that we do not offer any support in terms of coding and supervising in R.

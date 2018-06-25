@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Social Data Science</title>
+    <link>https://abjer.github.io/sds/posts/</link>
+    <description>Recent content in Posts on Social Data Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>sodas@ku.dk (Center for Social Data Science)</managingEditor>
+    <webMaster>sodas@ku.dk (Center for Social Data Science)</webMaster>
+    
+	<atom:link href="https://abjer.github.io/sds/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://abjer.github.io/sds/posts/install/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds/posts/install/</guid>
+      <description>This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.
+ A text editor Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.</description>
+    </item>
+    
+  </channel>
+</rss>

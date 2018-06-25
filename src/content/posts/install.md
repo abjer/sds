@@ -1,0 +1,87 @@
+This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.
+
+1. [A text editor](#a-text-editor)
+2. [Python and Jupyter notebook](#python-and-jupyter-notebook)
+3. [A git client](#a-git-client)
+4. [A github account](#a-github-account)
+
+We will discuss these tools in much more detail in class, so don't worry if this is all new and perhaps a bit frightening right now.
+
+## A text editor
+
+One of the most important tools you will need for this course is a decent text editor. A text editor is a program that lets you work with plain-text files. You should pick an editor capable of syntax highlighting, syntax checking (ensuring that brackets and parentheses are properly paired), and handling multiple files. Two highly recommended options are:
+
+- [Atom](https://atom.io/)
+- [Sublime Text](http://www.sublimetext.com/)
+
+Try to spend a little time familiarizing yourself with your editor. For instance, try learning a few of your editor's keyboard shortcuts. The point is to be as productive as possible when working with the computer.
+Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:
+
+> The key thing I emphasize to students is they should be using the mouse as
+> little as possible. Every time you move your hands away from the keys,
+> you’re slowing yourself down.
+
+## Python and Jupyter notebook
+
+[Python](https://www.python.org/) is a free programming language. We will use the distribution called [Anaconda (Conda)](https://conda.io/docs/) as it comes with the most essential for working with data, statistical computing and visualizations. We will use Anaconda for Python 3.6 throughout the course, so please make sure it is installed on your computer before first day of class. It works on all platforms.
+
+Anaconda can be downloaded [here](https://www.continuum.io/downloads), for Windows, Mac or Linux.
+If you want to watch a step-by-step tutorial on how to install Anaconda and Jupyter Notebook for you machine see the guides here:
+
+- Install Anaconda for Windows by [following these steps](https://docs.continuum.io/anaconda/install-windows) or [watch this video](https://www.youtube.com/watch?v=Vt6loGK9Adc)
+- Install Anaconda for Mac by [following these steps](https://docs.continuum.io/anaconda/install-macos.html#macos-graphical-install) or [watch this video](https://www.youtube.com/watch?v=OOFONKvaz0A)
+
+Since the vast majority of our coding will be in the R language, we will use an integrated development environment ([IDE](http://en.wikipedia.org/wiki/Integrated_development_environment)). IDEs integrate text editing, syntax highlighting, and version control,
+simplifying the coding process. These packages are automatically included in Anaconda [Jupyter Notebook](http://jupyter.org). It's free and modern, and if you're new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.
+
+#### Welcome to open source
+To know basic python is powerful in itself, but the great potentials lie in the huge community of developers and researchers contributing to a shared pool of software packages. A programming language is as powerful as the community that surrounds it. Especially in the field of machine learning, the python community is leading the way, allowing you to share code with top researchers from the field and industry, among others Google's top engineering teams. Tapping into these vast resources is made easy by the Conda distribution and the pip package manager:
+Just open your command-line and type the following:
+`conda install [name of package]`
+or if conda does not support it directly use the more generic package manager:
+`pip install [name of package]`
+#### Using Jypyter notebook
+
+The [Jupyter Notebook App](http://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html#notebook-app) can be launched by clicking on the Jupyter Notebook icon installed by Anaconda in the start menu (only Windows) or by typing the following either in a terminal (on Mac/Linux) or cmd (on Windows).
+
+`jupyter notebook`
+
+This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.
+
+#### Checking insallation
+
+After installation of Python please to run it by entering cmd or terminal and `python` - this will start Python. Once started please try the following two commands to check its working.
+
+```python
+1+2
+>>> 3
+```
+
+```python
+print('Welcome to Social Data Science')
+>>> Welcome to Social Data Science
+```
+
+
+## A Git client
+
+[Git](http://git-scm.com) is a version control system that allows you to track modifications to files and code over time. It also facilitates collaborations so that multiple people can share and edit the same code base.
+
+If you are on Windows you can install [Github Desktop](https://desktop.github.com) which provides both the command line tool for git and a graphical user interface. Alternatively, you can install git as an optional package under Cygwin. I recommend the Github application, as it will be easier to interface with Github using it. Likewise, modern versions of Mac OS X have a command line git client installed by default, but the [Github Desktop](https://desktop.github.com) tool is a recommended addition.
+
+## A Github account
+
+[Github](http://github.com) is a platform that facilitates collaboration on projects that use git. You can use it to host projects, publish them to the web, and share them with other people. [Create a free account](https://help.github.com/articles/signing-up-for-a-new-github-account/) if you don't already have one.
+
+Once you have an account, clone the [course repository](https://github.com/abjer/sds) using your local git client. This is most easily done on the command line as follows:
+
+    # git clone https://github.com/abjer/sds
+	Cloning into 'sds'...
+	remote: Counting objects: 145, done.
+	remote: Compressing objects: 100% (98/98), done.
+	remote: Total 145 (delta 40), reused 137 (delta 37)
+	Receiving objects: 100% (145/145), 454.90 KiB | 594.00 KiB/s, done.
+	Resolving deltas: 100% (40/40), done.
+	Checking connectivity... done.
+
+When this is complete, verify that you have a local directory called ``sds`` containing a ``README.md`` file.
