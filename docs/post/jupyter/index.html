@@ -5,21 +5,26 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Tags</title>
-  <meta property="og:title" content="Tags" />
-  <meta name="twitter:title" content="Tags" />
+  <title>Useful Jupyter tips</title>
+  <meta property="og:title" content="Useful Jupyter tips" />
+  <meta name="twitter:title" content="Useful Jupyter tips" />
+  <meta name="description" content="This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells - enter edit mode: click inside the cell or press ENTR - exit edit mode: click outside cell or press ESC.">
+  <meta property="og:description" content="This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells - enter edit mode: click inside the cell or press ENTR - exit edit mode: click outside cell or press ESC.">
+  <meta name="twitter:description" content="This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter …">
   <meta name="author" content="Center for Social Data Science"/>
   <link href='https://abjer.github.io/sds/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://abjer.github.io/sds/img/ku_logo_uk_v.png" />
   <meta name="twitter:image" content="https://abjer.github.io/sds/img/ku_logo_uk_v.png" />
   <meta name="twitter:card" content="summary" />
-  <meta property="og:url" content="https://abjer.github.io/sds/tags/" />
+  <meta property="og:url" content="https://abjer.github.io/sds/post/jupyter/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="Social Data Science" />
 
   <meta name="generator" content="Hugo 0.44" />
-  <link rel="canonical" href="https://abjer.github.io/sds/tags/" />
-  <link rel="alternate" href="https://abjer.github.io/sds/tags/index.xml" type="application/rss+xml" title="Social Data Science">
+  <link rel="canonical" href="https://abjer.github.io/sds/post/jupyter/" />
+  <link rel="alternate" href="https://abjer.github.io/sds/index.xml" type="application/rss+xml" title="Social Data Science">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -172,9 +177,20 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="tags-heading">
-              <h1>Tags</h1>
+            <div class="post-heading">
+              <h1>Useful Jupyter tips</h1>
                 
+                
+                  <span class="post-meta">
+  
+  
+  <i class="fa fa-calendar-o"></i>&nbsp;Posted on July 19, 2018
+  
+  
+  
+</span>
+
+
                 
             </div>
           </div>
@@ -185,20 +201,74 @@
 
 
     
-
-
-
 <div class="container" role="main">
-  <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1"> 
-    <article class="post-preview">
-      <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
         
-      </div>
-    </article>
+
+<p>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see <a href="https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook">here</a>.</p>
+
+<h2 id="keyboard-short-cuts">Keyboard short cuts</h2>
+
+<p>Editing and executing cells
+- enter edit mode: click inside the cell or press <code>ENTR</code>
+- exit edit mode: click outside cell or press <code>ESC</code>.
+- executing code within a cell is <code>SHFT</code>+<code>ENTR</code> or <code>CTRL</code>+<code>ENTR</code> (not same!)</p>
+
+<p>Adding removing cells (command mode only)
+- delete a cell:<code>d</code>,<code>d</code> (press <code>d</code> twice)
+- add cell: <code>a</code> above, <code>b</code> below</p>
+
+<p>Converting between markdown and code (command mode only)
+- as markdown: <code>m</code>
+- as code: <code>y</code></p>
+
+<p>See all Jupyter keyboard shortcuts in menu (top): <code>Help &gt; Keyboard Shortcuts</code>, or press <code>H</code> in command mode.</p>
+
+<h2 id="other-tips">Other tips</h2>
+
+<p><em>Autocompletion</em></p>
+
+<p>Within Jupyter the <code>TAB</code> command will autocomplete your code. This can also be used to see which methods are available for a given object.</p>
+
+<p><em>Plotting</em></p>
+
+<p>Using the syntax <code>%matplotlib inline</code> allows you to make figures within Jupyter notebook.</p>
+
+<p><em>Function description</em></p>
+
+<p>Execute a cell with <code>?fct</code> will give you information about the function <code>fct</code>. Note this command also work on objects&rsquo; methods.</p>
+
+<h2 id="further-resources">Further resources</h2>
+
+<p>DataCamp has some excellent resources for picking up additional Jupyter skills. Their cheatsheet, available <a href="https://www.datacamp.com/community/blog/jupyter-notebook-cheat-sheet">here</a>, is excellent to print out and have is a coding aid. For a comprehensive overview of Jupyter to check out the official documentation, <a href="http://jupyter.readthedocs.io/en/latest/">see here</a>.</p>
+
+<p>If you have other relevant stuff that you wish to share, make a pull request in our course page&rsquo;s <a href="https://github.com/abjer/sds">GitHub repo</a>.</p>
+
+
+        
+
+        
+      </article>
+
+      
+        <ul class="pager blog-pager">
+          
+            <li class="previous">
+              <a href="https://abjer.github.io/sds/post/install/" data-toggle="tooltip" data-placement="top" title="Installation">&larr; Previous Post</a>
+            </li>
+          
+          
+        </ul>
+      
+
+
+      
+
+    </div>
   </div>
 </div>
-
-
 
     <footer>
   <div class="container">

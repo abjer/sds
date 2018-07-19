@@ -53,21 +53,26 @@ pygmentsCodefencesGuessSyntax = true
       identifier = "posts"
       name = "Posts"
       weight = 2
-
+  [[menu.main]]
+      name = "Readings"
+      weight = 3
+      url = "page/readings/"
+  [[menu.main]]
+      name = "Timeplan"
+      weight = 4
+      url = "page/timeplan/"
+  [[menu.main]]
+      name = "Practical info"
+      weight = 5
+      url = "page/practical/"
+# Posts
   [[menu.main]]
       parent = "posts"
       name = "Installation"
       url = "post/install"
       weight = 1
   [[menu.main]]
-      name = "Readings"
+      parent = "posts"
+      name = "Jupyter tips"
+      url = "post/jupyter"
       weight = 2
-      url = "page/readings/"
-  [[menu.main]]
-      name = "Timeplan"
-      weight = 3
-      url = "page/timeplan/"
-  [[menu.main]]
-        name = "Practical info"
-        weight = 4
-        url = "page/practical/"

@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sodas@ku.dk (Center for Social Data Science)</managingEditor>
     <webMaster>sodas@ku.dk (Center for Social Data Science)</webMaster>
-    <lastBuildDate>Thu, 21 Jun 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abjer.github.io/sds/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Useful Jupyter tips</title>
+      <link>https://abjer.github.io/sds/post/jupyter/</link>
+      <pubDate>Thu, 19 Jul 2018 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds/post/jupyter/</guid>
+      <description>This post provides a short intro on picking up useful Jupyter hacks. We begin with a short overview of the most essential Jupyter shortcuts and skills. If you have not read the introduction to Jupyter you should do that immediately, see here.
+Keyboard short cuts Editing and executing cells - enter edit mode: click inside the cell or press ENTR - exit edit mode: click outside cell or press ESC.</description>
+    </item>
     
     <item>
       <title>Course readings</title>
@@ -20,7 +30,7 @@
       <guid>https://abjer.github.io/sds/page/readings/</guid>
       <description>Textbook for general introduction to social data science:
  Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB]  Textbooks for data science in Python
- Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Session 1a &amp;amp; 1b: Introduction to SDS and Python Required readings Introduction to Social Data Science</description>
+ Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Session 1a &amp;amp; 1b: Introduction to SDS and Python We introduce the field and provide an overview of course logistics.</description>
     </item>
     
     <item>

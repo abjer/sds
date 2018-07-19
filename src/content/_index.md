@@ -11,7 +11,7 @@ A summer school at University of Copenhagen. The course is offered by the [Cente
 
 ### Course information
 
-**NB! Students are required to have completed the following tutorials (expected to take 4 hours each) *before* the first day of class**. [DataCamp - Python intro 1](https://www.datacamp.com/courses/intro-to-python-for-data-science) & [DataCamp - Python intro 2](https://www.datacamp.com/courses/intermediate-python-for-data-science) - more information below.
+**NB! Students are required to have completed two tutorials at DataCamp  *before* the first day of class - more information below under "Preparation".**
 
 The objective of this course is to learn how to analyze, gather and work with modern quantitative social science data. Increasingly, social data - data that capture how people behave and interact with each other - is available online in new, challenging forms and formats. This opens up the possibility of gathering large amounts of interesting data, to investigate existing theories and new phenomena, provided that the analyst has sufficient computer literacy, while at the same time being aware of the promises and pitfalls of working with various types of data.
 
@@ -45,6 +45,11 @@ Teaching material and code will be distributed and collected via
 
 ### Preparation
 
-**Before class begins all students are required to prepare. We expect all students to have completed the following tutorials (expected to take 8 hours) before the first day of class: [DataCamp - Python intro 1](https://www.datacamp.com/courses/intro-to-python-for-data-science) & [DataCamp - Python intro 2](https://www.datacamp.com/courses/intermediate-python-for-data-science)**. You should use the invitation that will be sent out through the course page or write Andreas an email to sign up for the class site on DataCamp.  This will make it easier for us to spot where you have difficulties.
+Before class begins on August 13 all students are required to prepare. We expect everyone of you to have completed the following tutorials before the first day of class:
+
+- [Python for Data Science Introduction](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+- [Python for Data Science Intermediate](https://www.datacamp.com/courses/intermediate-python-for-data-science)
+
+You should use the invitation that will be sent out through the course page or write Andreas an email to sign up for the class site on DataCamp.  This will make it easier for us to spot where you have difficulties. Note that each tutorial is expected to take four hours.
 
 We also expect you to bring a laptop with software installed, see [this post](post/install).

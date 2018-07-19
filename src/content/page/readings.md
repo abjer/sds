@@ -14,6 +14,8 @@ Textbooks for data science in Python
 
 ## Session 1a & 1b: Introduction to SDS and Python
 
+We introduce the field and provide an overview of course logistics. We follow up with a review of basic Python.  
+
 #### Required readings
 
 **Introduction to Social Data Science**
@@ -23,11 +25,15 @@ Textbooks for data science in Python
 
 **Python programming**
 
+- PDA, chapters 2, 3 and section 4.1
+
 - DataCamp Python for data science tutorials: [introduction](https://www.datacamp.com/courses/intro-to-python-for-data-science), [intermediate level](https://www.datacamp.com/courses/intermediate-python-for-data-science) (JOIN OUR GROUP!)
+
+- DataCamp 2016, ‘Jupyter tutorial’, available [here](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
 
 - [The Scientist: Get With the Program](http://www.the-scientist.com/?articles.view/articleNo/43632/title/Get-With-the-Program/)
 
-- Read chapters 2 and 3 in Python for Data Analysis
+
 
 #### Inspirational reading
 
@@ -46,14 +52,16 @@ A broad, early, and easy-to-read idea of data driven (social) science:
 - BBB: Chapter 3 & 4
 - Nolan, John. 2015. "[How to Write Faster, Better & Longer: The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)."
 - Jones, Zachery. 2015. "[Git & Github tutorial](http://zmjones.com/git-github-tutorial/)".
- - Note that an optional followup can be found in Rainey, Carlisle. 2015. "[Git for Political Science](https://github.com/carlislerainey/git-for-political-science)".
+- Note that an optional followup can be found in Rainey, Carlisle. 2015. "[Git for Political Science](https://github.com/carlislerainey/git-for-political-science)".
 
 ## Session 3: Strings, queries and APIs
 
 We start to leverage our python knowledge to make queries on the web. This allows us to pull data directly from Statistics Denmark's API.
 
 #### Required reading
-- PDA, sections 6.1, 6.3, 7.3.
+- PDA, sections 6.1, 6.3 and 7.3 pp. 211-213
+- Gazarov, Petr. 2016. "[What is an API? In English, please.](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)"
+
 
 ## Session 4: Data structuring 1
 
@@ -64,12 +72,15 @@ We learn basic processing with the Python modules, [pandas](http://pandas.pydata
 
 
 
-#### Additional resources for data structuring
+#### Inspirational reading and additional material
+- Lohr, Steve. 2014. "[For Big-Data Scientists, ‘Janitor Work’ Is Key Hurdle to Insights](https://www.nytimes.com/2014/08/18/technology/for-big-data-scientists-hurdle-to-insights-is-janitor-work.html)"
+
 
 There are many good resources for learning how to master data structuring. See below for two ways of self-learning:
 
 - Rada, Greg. 2013. "[Intro to pandas data structures](http://www.gregreda.com/2013/10/26/intro-to-pandas-data-structures/)"- read all three sections.
 - DataCamp offers further smaller courses on Pandas and data structuring
+
 
 
 ## Session 5: Intro to visualization
@@ -89,7 +100,7 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 
 
 ## Sessions 6: Data structuring 2
-We learn about missing data, data transformation, categorical data and temporal data.  [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [numpy](http://www.numpy.org/).
+We learn about missing data, data transformation, categorical data and temporal data.  
 
 #### Required reading
 
@@ -107,6 +118,9 @@ We learn two powerful tools in data structuring: combining different data sets a
 
 
 ## Session 8: Scraping 1 - Data Collection
+
+#### Required readings
+
 - Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.
 (copies will be provided).
 - Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
@@ -129,6 +143,7 @@ Below are some interesting academic papers using data scraped from online source
 
 
 ## Session 9: Scraping 2 - Parsing
+#### Required readings
 - Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
 
 **Supplementary**
@@ -177,7 +192,6 @@ We explain the overfitting problem of modelling. We show one possible solution i
 
 - PML, chapter 3, the following sections:
   - Tackling overfitting via regularization
-  - K-nearest neighbors – a lazy learning algorithm
   - Partitioning a dataset into separate training and test sets
 - PML, chapter 4, the following sections:
   - Bringing features onto the same scale
