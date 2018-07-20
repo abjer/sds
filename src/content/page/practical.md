@@ -13,9 +13,10 @@ On the first day we will assign you to a group. The assignment to groups is stri
 
 # Mandatory assignments
 
-There will be two mandatory assignments.
-- Assignment 1: collecting and structuring data. To be handed in Sunday, August 20, 2018.
-- Assignment 2: machine learning. To be handed in Friday, Friday 25, 2018.
+There will be two mandatory assignments to be handed as groups.
+
+- Assignment 1: collecting and structuring data. The exercise must be handed in no later than 23:59, Sunday, August 20, 2018.
+- Assignment 2: machine learning and text data. The exercise must be handed in no later than 23:59, Friday, August 25, 2018.
 
 The assignments will be graded using peer grading software. More information will follow.
 
@@ -44,7 +45,9 @@ The exam projects have a number of requirements that must be met, these are: req
   - Report (.pdf file)
     - The style should be like a light written research article (brief literature review, references to methods etc.)
     - Grading will be based on this report but process should be document in Jupyter Notebook.
-    - The following maximum number of pages (normalsider): 1 pax: 12 pages, 2 pax: 16 pages, 3 pax: 20 pages, 4 pax: 24 pages.
+    - The following maximum number of pages (normalsider):
+      - 3 members, 20 pages;
+      - 4 members, 24 pages.
   - Documentation in Jupyter Notebook (.ipynb file)
 
 

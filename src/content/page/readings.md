@@ -125,7 +125,7 @@ We learn two powerful tools in data structuring: combining different data sets a
 (copies will be provided).
 - Shiab, Nael. 2015. "[On the Ethics of Web Scraping and Data Journalism](http://gijn.org/2015/08/12/on-the-ethics-of-web-scraping-and-data-journalism/)". Global Investigative Journalism Network.
 
-**Inspiration**
+#### Inspirational reading
 
 Below are some interesting academic papers using data scraped from online sources that might provide inspiration for your exam project.
 
@@ -145,8 +145,6 @@ Below are some interesting academic papers using data scraped from online source
 ## Session 9: Scraping 2 - Parsing
 #### Required readings
 - Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
-
-**Supplementary**
 - Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
 
 
