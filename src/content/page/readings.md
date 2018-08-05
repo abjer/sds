@@ -25,7 +25,7 @@ We introduce the field and provide an overview of course logistics. We follow up
 
 **Python programming**
 
-- PDA, chapters 2, 3 and section 4.1
+- PDA: chapters 2, 3
 
 - DataCamp Python for data science tutorials: [introduction](https://www.datacamp.com/courses/intro-to-python-for-data-science), [intermediate level](https://www.datacamp.com/courses/intermediate-python-for-data-science) (JOIN OUR GROUP!)
 
@@ -40,6 +40,7 @@ We introduce the field and provide an overview of course logistics. We follow up
 If you’re interested, and want to delve deeper into coding and programming (you certainly don’t have to, they are not required for this course), we highly recommend the following posts:
 
 - [Why learn Python](https://www.continuum.io/why-python)
+- [Economist on the Rise of Python](https://www.economist.com/science-and-technology/2018/07/21/python-has-brought-computer-programming-to-a-vast-new-audience)
 - [What is Code?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/?cmpid=twtr1)
 
 A broad, early, and easy-to-read idea of data driven (social) science:
@@ -47,6 +48,8 @@ A broad, early, and easy-to-read idea of data driven (social) science:
 - Anderson, Chris. 2008. "[The end of theory: The data deluge makes the scientific method obsolete](http://www.uvm.edu/~cmplxsys/wordpress/wp-content/uploads/reading-group/pdfs/2008/anderson2008.pdf)." *Wired*, 16-07.
 
 ## Session 2: Reproducible research
+
+We introduce Git for handling and sharing your code as well as Markdown for writing. These two tools have the potential to greatly enhance your productivity.
 
 #### Required reading
 - BBB: Chapter 3 & 4
@@ -59,7 +62,7 @@ A broad, early, and easy-to-read idea of data driven (social) science:
 We start to leverage our python knowledge to make queries on the web. This allows us to pull data directly from Statistics Denmark's API.
 
 #### Required reading
-- PDA, sections 6.1, 6.3 and 7.3 pp. 211-213
+- PDA: sections 2.3 pp. 39-43, 3.3, 6.1 pp. 178-180, 6.3 and 7.3 pp. 211-213
 - Gazarov, Petr. 2016. "[What is an API? In English, please.](https://medium.freecodecamp.org/what-is-an-api-in-english-please-b880a3214a82)"
 
 
@@ -68,7 +71,7 @@ We start to leverage our python knowledge to make queries on the web. This allow
 We learn basic processing with the Python modules, [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [numpy](http://www.numpy.org/). This includes file input/output, arithmetics, slicing data etc.
 
 #### Required reading
-- PDA, chapter 5, sections 4.1, 6.1, 6.2.
+- PDA: chapter 5, sections 4.1, 6.1, 6.2.
 
 
 
@@ -88,7 +91,7 @@ There are many good resources for learning how to master data structuring. See b
 We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/pandas-docs/stable/) and [seaborn](https://seaborn.pydata.org/index.html). Both these modules are built on the fundamental and flexible plotting module [matplotlib](https://matplotlib.org).
 
 #### Required reading
-- PDA, chapter 9
+- PDA: chapter 9
 - Christ Moffitt, 2017. ["Effectively Using Matplotlib"](http://pbpython.com/effective-matplotlib.html)
 - Read sections 1-3 in: Wickham, Hadley. 2010. "[A Layered Grammar of Graphics](http://byrneslab.net/classes/biol607/readings/wickham_layered-grammar.pdf)". *Journal of Computational and Graphical Statistics*, Volume 19, Number 1, Pages 3–28.
 
@@ -104,8 +107,8 @@ We learn about missing data, data transformation, categorical data and temporal 
 
 #### Required reading
 
-- PDA, chapter 7 and sections 11.1, 11.2.
-- PML, chapter 4, section 'Handling categorical data'.
+- PDA: chapter 7 and sections 11.1, 11.2.
+- PML: chapter 4, section 'Handling categorical data'.
 
 
 ## Session 7: Data structuring 3
@@ -113,12 +116,12 @@ We learn about missing data, data transformation, categorical data and temporal 
 We learn two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA, chapters 8 and 10
+- PDA: chapters 8 and 10
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
 
 ## Session 8: Scraping 1 - Data Collection
-
+We learn to create and collect datasets from the web. This means interacting with apis and webpages and extracting information from unstructured webpages.
 #### Required readings
 
 - Chapter 2: "Working with Web Data and APIs." in **[Big Data and Social Science: A Practical Guide to Methods and Tools](http://www.bigdatasocialscience.com/home)** edited by Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, and Julia Lane.
@@ -143,6 +146,7 @@ Below are some interesting academic papers using data scraped from online source
 
 
 ## Session 9: Scraping 2 - Parsing
+Here we develop our skills in parsing and pattern extraction using regular expressions. This is a fundamental data science skill that goes beyond web scraping alone.
 #### Required readings
 - Chapter 2. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
 - Introduction to pattern matching using regex: "[An introduction to regex in python](https://scotch.io/tutorials/an-introduction-to-regex-in-python). Blog.
@@ -177,7 +181,7 @@ We introduce basic machine learning concepts. We start with the simple machine l
 
 #### Required readings
 
-- PML, chapters 1,2 and the following section from chapter 3:
+- PML: chapters 1,2 and the following section from chapter 3:
   - Modeling class probabilities via logistic regression
   - Maximum margin classification with support vector machines
 
@@ -188,13 +192,13 @@ We explain the overfitting problem of modelling. We show one possible solution i
 
 #### Required readings
 
-- PML, chapter 3, the following sections:
+- PML: chapter 3, the following sections:
   - Tackling overfitting via regularization
   - Partitioning a dataset into separate training and test sets
-- PML, chapter 4, the following sections:
+- PML: chapter 4, the following sections:
   - Bringing features onto the same scale
   - Selecting meaningful features
-- PML, chapter 10, the following sections:
+- PML: chapter 10, the following sections:
   - Introducing linear regression
   - Implementing an ordinary least squares linear regression model
   - Evaluating the performance of linear regression models
@@ -213,7 +217,7 @@ We introduce cross validation to gauge overfitting. We introduce principal compo
 
 #### Required readings
 
-- PML, chapter 6 and the following section from chapter 5:
+- PML: chapter 6 and the following section from chapter 5:
   - Unsupervised dimensionality reduction via principal component analysis
 
 
@@ -223,7 +227,7 @@ We learn about two new classes of machine learning models: neighbor based models
 
 #### Required readings
 
-- PML, following sections in chapters 3 and 4:
+- PML: following sections in chapters 3 and 4:
   - K-nearest neighbors – a lazy learning algorithm
   - Decision tree learning
   - Assessing feature importance with random forests
@@ -238,10 +242,10 @@ We learn about two new classes of machine learning models: neighbor based models
 
 
 ## Session 15: Text data 1
-
+We introduce the concept of **Text as Data**, and apply our newly acquired knowledge of supervised learning to a text classification problem.
 #### Required readings
 
-- PML, following sections from chapter 8:
+- PML: following sections from chapter 8:
   - Preparing the IMDb movie review data for text processing
   - Introducing the bag-of-words model
   - Training a logistic regression model for document classification
@@ -258,13 +262,15 @@ We learn about two new classes of machine learning models: neighbor based models
 - Andrea Ceron, Luigi Curini, Stefano M. Iacus. "[Using Sentiment Analysis to Monitor Electoral Campaigns: Method Matters—Evidence From the United States and Italy](http://journals.sagepub.com/doi/abs/10.1177/0894439314521983)
 
 ## Session 16: Cluster analysis
+We introduce basics concepts in unsupervised learning and cluster analysis. Cluster analysis and unsupervised methods in general are useful both for exploration of your data, feature engineering and as a heuristic meausurement tool when labeled data is expensive.
 #### Required readings
 
-- PML, chapter 11
+- PML: chapter 11
 
 ## Session 17: Text data 2
+We introduce simple techniques for sentiment analysis of text that can be used *off-the-shelf*, and apply our knowledge of cluster analysis on a text categorization problem.
 #### Required readings
-- PML, following part in chapter 8:
+- PML: following part in chapter 8:
   - Topic modeling with Latent Dirichlet Allocation
 - Chapter 18. Dan Jurafsky and James H. Martin: [Speech and Language Processing (3rd ed. draft)] (https://web.stanford.edu/~jurafsky/slp3/)
 
@@ -281,7 +287,7 @@ We run through some examples of how to do parallel processing in Python and get 
 
 #### Other data types
 
-In our [follow up course](https://github.com/abjer/tsds/wiki) we teach advanced tools for text data and new data types. The new data types include spatial data and network data. If you are interesting in working with
+In our follow up course, [Topics in Social Data Science](https://github.com/abjer/tsds/wiki), we teach advanced tools for text data and new data types. The new data types include spatial data and network data. If you are interesting in working with
 
 - For spatial data we recommend [GeoPandas](https://github.com/geopandas/geopandas) which provides an overlay of Pandas for spatial visualizations and analysis - see tutorials for [making visualizations](https://geohackweek.github.io/vector/04-geopandas-intro/) or [computing features](https://automating-gis-processes.github.io/2016/Lesson2-geopandas-basics.html).
 

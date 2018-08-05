@@ -42,18 +42,16 @@ The exam projects have a number of requirements that must be met, these are: req
 - Research question (hand in April 30, max half page)
 - Groups with up to four members
 - Project formalia
-  - Report (.pdf file)
-    - The style should be like a light written research article (brief literature review, references to methods etc.)
-    - Grading will be based on this report but process should be document in Jupyter Notebook.
-    - The following maximum number of pages (normalsider):
-      - 3 members, 20 pages;
-      - 4 members, 24 pages.
-  - Documentation in Jupyter Notebook (.ipynb file)
+  - Project must consist of a report (.pdf file) and a documentation as Jupyter Notebook (.ipynb file).
+  - The report should be written like a brief research article (short literature review, references to methods etc.). The report is limited to the following maximum number of pages (normalsider):
+    - 3 members, 20 pages;
+    - 4 members, 24 pages.
+  - Grading will be based on the report but process should but data collection, computations etc. should be well documented in the supporting Jupyter Notebook.
 
 
 ### Possible data sources
 
-Students in previous years of  Social Data Science have used a large variety of data sources including.
+Students in previous years of Social Data Science have used a large variety of data sources including.
 
 - news on [DR](dr.dk) (Danish Broadcasting Company) and the Danish newspaper Information
 - price of cars for sales on [bilbasen](bilbasen.dk)
