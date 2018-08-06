@@ -39,8 +39,8 @@ Some advice about the grading. It is essential that spend time on motivating you
 
 The exam projects have a number of requirements that must be met, these are: requirement
 
-- Research question (hand in April 30, max half page)
-- Groups with up to four members
+- Research question (you should discuss with lecturers and TAs)
+- Groups with three to four members
 - Project formalia
   - Project must consist of a report (.pdf file) and a documentation as Jupyter Notebook (.ipynb file).
   - The report should be written like a brief research article (short literature review, references to methods etc.). The report is limited to the following maximum number of pages (normalsider):
