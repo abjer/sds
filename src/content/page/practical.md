@@ -15,8 +15,8 @@ On the first day we will assign you to a group. The assignment to groups is stri
 
 There will be two mandatory assignments to be handed as groups.
 
-- Assignment 1: collecting and structuring data. The exercise must be handed in no later than 23:59, Sunday, August 20, 2018.
-- Assignment 2: machine learning and text data. The exercise must be handed in no later than 23:59, Friday, August 25, 2018.
+- Assignment 1: collecting and structuring data. The exercise must be handed in no later than 23:59, Sunday, August 19, 2018.
+- Assignment 2: machine learning and text data. The exercise must be handed in no later than 23:59, Friday, August 24, 2018.
 
 The assignments will be graded using peer grading software. More information will follow.
 
@@ -51,7 +51,7 @@ The exam projects have a number of requirements that must be met, these are: req
 
 ### Possible data sources
 
-Students in previous years of Social Data Science have used a large variety of data sources including.
+Students in previous years of Social Data Science have used a large variety of data sources including:
 
 - news on [DR](dr.dk) (Danish Broadcasting Company) and the Danish newspaper Information
 - price of cars for sales on [bilbasen](bilbasen.dk)
@@ -59,4 +59,4 @@ Students in previous years of Social Data Science have used a large variety of d
 - Airbnb pricing in Copenhagen
 - Prediction of bitcoin prices from Reddit data.
 
-If you are interested in working with one or more of these datasets or see the assignments of the students who made them please contact us and we will put you in touch.
+If you are interested in working with one or more of these datasets or see the projects by the students who made them please contact us and we will put you in touch.

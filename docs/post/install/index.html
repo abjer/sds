@@ -9,11 +9,11 @@
   <meta property="og:title" content="Installation" />
   <meta name="twitter:title" content="Installation" />
   <meta name="description" content="This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.
- A text editor Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.">
+ Python and Jupyter notebook A git client A github account A text editor (optional)  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.">
   <meta property="og:description" content="This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.
- A text editor Python and Jupyter notebook A git client A github account  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.">
+ Python and Jupyter notebook A git client A github account A text editor (optional)  We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.">
   <meta name="twitter:description" content="This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.
- A text editor Python and Jupyter …">
+ Python and Jupyter notebook A git …">
   <meta name="author" content="Center for Social Data Science"/>
   <link href='https://abjer.github.io/sds/img/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://abjer.github.io/sds/img/ku_logo_uk_v.png" />
@@ -211,31 +211,13 @@
 <p>This class will involve a lot of coding, for which you will need some basic tools. Please make sure to set up the following tools before the first day of class.</p>
 
 <ol>
-<li><a href="#a-text-editor">A text editor</a></li>
 <li><a href="#python-and-jupyter-notebook">Python and Jupyter notebook</a></li>
 <li><a href="#a-git-client">A git client</a></li>
 <li><a href="#a-github-account">A github account</a></li>
+<li><a href="#a-text-editor">A text editor</a> (optional)</li>
 </ol>
 
 <p>We will discuss these tools in much more detail in class, so don&rsquo;t worry if this is all new and perhaps a bit frightening right now.</p>
-
-<h2 id="a-text-editor">A text editor</h2>
-
-<p>One of the most important tools you will need for this course is a decent text editor. A text editor is a program that lets you work with plain-text files. You should pick an editor capable of syntax highlighting, syntax checking (ensuring that brackets and parentheses are properly paired), and handling multiple files. Two highly recommended options are:</p>
-
-<ul>
-<li><a href="https://atom.io/">Atom</a></li>
-<li><a href="http://www.sublimetext.com/">Sublime Text</a></li>
-</ul>
-
-<p>Try to spend a little time familiarizing yourself with your editor. For instance, try learning a few of your editor&rsquo;s keyboard shortcuts. The point is to be as productive as possible when working with the computer.
-Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:</p>
-
-<blockquote>
-<p>The key thing I emphasize to students is they should be using the mouse as
-little as possible. Every time you move your hands away from the keys,
-you�re slowing yourself down.</p>
-</blockquote>
 
 <h2 id="python-and-jupyter-notebook">Python and Jupyter notebook</h2>
 
@@ -249,15 +231,21 @@ If you want to watch a step-by-step tutorial on how to install Anaconda and Jupy
 <li>Install Anaconda for Mac by <a href="https://docs.continuum.io/anaconda/install-macos.html#macos-graphical-install">following these steps</a> or <a href="https://www.youtube.com/watch?v=OOFONKvaz0A">watch this video</a></li>
 </ul>
 
-<p>Since the vast majority of our coding will be in the R language, we will use an integrated development environment (<a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>). IDEs integrate text editing, syntax highlighting, and version control,
+<p>Since the vast majority of our coding will be in the Python language, we will use an integrated development environment (<a href="http://en.wikipedia.org/wiki/Integrated_development_environment">IDE</a>). IDEs integrate text editing, syntax highlighting, and version control,
 simplifying the coding process. These packages are automatically included in Anaconda <a href="http://jupyter.org">Jupyter Notebook</a>. It&rsquo;s free and modern, and if you&rsquo;re new to Python this will make it much easier to get started. All Python coding in this course will be done in Jupyter Notebook.</p>
 
+<h4 id="verifying-the-installation">Verifying the installation</h4>
+
+<p>After installation of Python please to execute a number of commands in the shell. You open the shell by entering cmd prompt (Windows) or terminal (Linux/Mac). Note in Windows you may have to open the Anaconda Prompt instead of normal <code>cmd</code>. Once the shell is open type <code>python</code> - this will start Python. Once you have Python started please try the following two commands to verify that it&rsquo;s working.</p>
+<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="mi">1</span><span class="o">+</span><span class="mi">2</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="mi">3</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="k">print</span><span class="p">(</span><span class="s1">&#39;Welcome to Social Data Science&#39;</span><span class="p">)</span>
+<span class="o">&gt;&gt;&gt;</span> <span class="n">Welcome</span> <span class="n">to</span> <span class="n">Social</span> <span class="n">Data</span> <span class="n">Science</span></code></pre></div>
 <h4 id="welcome-to-open-source">Welcome to open source</h4>
 
-<p>To know basic python is powerful in itself, but the great potentials lie in the huge community of developers and researchers contributing to a shared pool of software packages. A programming language is as powerful as the community that surrounds it. Especially in the field of machine learning, the python community is leading the way, allowing you to share code with top researchers from the field and industry, among others Google&rsquo;s top engineering teams. Tapping into these vast resources is made easy by the Conda distribution and the pip package manager:
-Just open your command-line and type the following:
-<code>conda install [name of package]</code>
-or if conda does not support it directly use the more generic package manager:
+<p>To know core Python is powerful in itself, but the great potentials lie in the huge community of developers and researchers contributing to a shared pool of software packages. A programming language is as powerful as the community that surrounds it. Especially in the field of machine learning, the Python community is leading the way, allowing you to share code with top researchers from the field and industry, among others Google&rsquo;s top engineering teams. Tapping into these vast resources is made easy by the Conda distribution and the pip package manager. Just open your shell/command-line/terminal and type the following:
+<code>conda install [name of package]</code></p>
+
+<p>or if conda does not support it directly use the more generic package manager:
 <code>pip install [name of package]</code></p>
 
 <h4 id="using-jypyter-notebook">Using Jypyter notebook</h4>
@@ -268,12 +256,14 @@ or if conda does not support it directly use the more generic package manager:
 
 <p>This will launch a new browser window (or a new tab) showing the Notebook Dashboard, a sort of control panel that allows (among other things) to select which notebook to open.</p>
 
-<h4 id="checking-insallation">Checking insallation</h4>
+<h4 id="getting-friendly-with-jupyter">Getting friendly with Jupyter</h4>
 
-<p>After installation of Python please to run it by entering cmd or terminal and <code>python</code> - this will start Python. Once started please try the following two commands to check its working.</p>
-<div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="mi">1</span><span class="o">+</span><span class="mi">2</span>
-<span class="o">&gt;&gt;&gt;</span> <span class="mi">3</span></code></pre></div><div class="highlight"><pre class="chroma"><code class="language-python" data-lang="python"><span class="k">print</span><span class="p">(</span><span class="s1">&#39;Welcome to Social Data Science&#39;</span><span class="p">)</span>
-<span class="o">&gt;&gt;&gt;</span> <span class="n">Welcome</span> <span class="n">to</span> <span class="n">Social</span> <span class="n">Data</span> <span class="n">Science</span></code></pre></div>
+<p>Try to spend a little time familiarizing yourself with the Jupyter framework. For instance, try learning a few of your editor&rsquo;s keyboard shortcuts; see our post <a href="https://abjer.github.io/sds/post/jupyter/">here</a>. The point is to be as productive as possible when working with the computer. Karl Broman, a professor of biostatistics and medical informatics at the University of Wisconsin-Madison, gives some great advice for working with code:</p>
+
+<blockquote>
+<p>The key thing I emphasize to students is they should be using the mouse as little as possible. Every time you move your hands away from the keys, you&rsquo;re slowing yourself down.</p>
+</blockquote>
+
 <h2 id="a-git-client">A Git client</h2>
 
 <p><a href="http://git-scm.com">Git</a> is a version control system that allows you to track modifications to files and code over time. It also facilitates collaborations so that multiple people can share and edit the same code base.</p>
@@ -294,6 +284,18 @@ Receiving objects: 100% (145/145), 454.90 KiB | 594.00 KiB/s, done.
 Resolving deltas: 100% (40/40), done.
 Checking connectivity... done.</pre></div>
 <p>When this is complete, verify that you have a local directory called <code>sds</code> containing a <code>README.md</code> file.</p>
+
+<p>Afterwards you can subscribe to updates, small and big, by using <code>Watch</code> or <code>Star</code> within the GitHub page.</p>
+
+<h2 id="a-text-editor-optional">A text editor (optional)</h2>
+
+<p>An important alterntive to Jupyter is a decent text editor. A text editor is a program that lets you work with plain-text files. You should pick an editor capable of syntax highlighting, syntax checking (ensuring that brackets and parentheses are properly paired), and handling multiple files. We highly recommend:</p>
+
+<ul>
+<li><a href="https://atom.io/">Atom</a></li>
+</ul>
+
+<p>Another good option is <a href="http://www.sublimetext.com/">Sublime Text</a>.</p>
 
 
         
