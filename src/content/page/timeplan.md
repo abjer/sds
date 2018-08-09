@@ -12,7 +12,7 @@ Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |       | ---------   Week 1  --------- | | |
 Aug 13|  9-10 | 1a. SDS intro  | DDL | |
-Aug 13| 10-12 | 1b. Python intro  | ABN | |
+Aug 13| 10-12 | 1b. Python intro  | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1b.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1b.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_1/exercise_1.ipynb)
 Aug 13| 13-16 | 2. Reproducible research | KG | |
 Aug 14|  9-12 | 3. Strings, queries and APIs | ABN | |
 Aug 14| 13-16 | 4. Data structuring 1 | ABN | |
@@ -45,4 +45,24 @@ Aug 28| 13-16 |  *(brainstorm & supervision)* | TAs | |
 - UA: Ulf Aslak
 
 #### Teaching assistants (TAs)
-Kristoffer Glavind, Kristian Urup Larsen
+- Kristoffer Glavind
+- Kristian Urup Larsen
+
+#### Download material using Github Desktop
+- Download [Github Desktop](https://desktop.github.com/) and make a [Github account](https://github.com/).
+
+- Open Github Desktop and go to `File -> Open Repository`
+
+- Go to the URL-tab and choose the course Github page (abjer/sds), and where you want to save it on your own computer.
+
+- Now you can access the files on you own computer.
+
+- If there have been updates to the SDS-repository on GitHub, you can update it (known as pull, sync or fetch) in GitHub Desktop by choosing SDS as your `Current repository` and press `Fetch origin`.
+
+- NB! When you make changes to your Notebooks, make a copy of the file, with a now name. Else you risk overwriting your changes, the next time you update the repository.
+
+#### Legend
+- nb: Slides in Notebook format
+- pdf: Slides in pdf format
+- ex: Exercise ready to be made
+- sol: Solution for exercise (Without solutions to the exercises you have to hand in)

@@ -107,7 +107,7 @@ We learn about missing data, data transformation, categorical data and temporal 
 
 #### Required reading
 
-- PDA: chapter 7 and sections 11.1, 11.2.
+- PDA: chapter 7 and sections 11.1, 11.2, 12.1.
 - PML: chapter 4, section 'Handling categorical data'.
 
 
@@ -116,7 +116,7 @@ We learn about missing data, data transformation, categorical data and temporal 
 We learn two powerful tools in data structuring: combining different data sets and the-split-apply-combine framework which is called `groupby` in pandas.
 
 #### Required reading
-- PDA: chapters 8 and 10
+- PDA: chapters 8 and 10.
 - Wickham, Hadley. 2011. “[The Split-Apply-Combine Strategy for Data Analysis](http://www.jstatsoft.org/article/view/v040i01)”. Journal of Statistical Software 40(1).
 
 
