@@ -32,5 +32,15 @@ Keyboard short cuts Editing and executing cells - enter edit mode: click inside 
  Python and Jupyter notebook A git client A github account A text editor (optional)  We will discuss these tools in much more detail in class, so don&amp;rsquo;t worry if this is all new and perhaps a bit frightening right now.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://abjer.github.io/sds/post/exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds/post/exam/</guid>
+      <description>Exam project When the teaching in our course finishes you are to hand in a project. The formal requirements are found here.
+In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it. Some good projects use machine learning for modelling a variable of interest, while some good projects use machine learning to parse text data.</description>
+    </item>
+    
   </channel>
 </rss>

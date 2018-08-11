@@ -15,14 +15,20 @@ On the first day we will assign you to a group. The assignment to groups is stri
 
 There will be two mandatory assignments to be handed as groups.
 
-- Assignment 1: collecting and structuring data. The exercise must be handed in no later than 23:59, Sunday, August 19, 2018.
-- Assignment 2: machine learning and text data. The exercise must be handed in no later than 23:59, Friday, August 24, 2018.
+- Assignment 1: collecting and structuring data.
+  - The exercise will be posted Thursday, August 16, in the afternoon.
+  - The exercise must be handed in no later than 23:59, Sunday, August 19, 2018.
+- Assignment 2: machine learning and text data.
+  - The exercise will be posted Wednesday, August 22, in the afternoon.
+  - The exercise must be handed in no later than 23:59, Friday, August 24, 2018.
 
 The assignments will be graded using peer grading software. More information will follow.
 
 # Exam project
 
-At the end of the course your group must hand in a independent exam project. It is up to you to find a subject, data, choose methods etc.
+At the end of the course your group must hand in a independent exam project. The official exam period runs from August 25, 2018 from 10 a.m. to September 1 at 10 a.m.
+
+The content of the exam project is something that you choose. You and your group must find a subject, data, choose methods etc.
 
 ### Grading
 The grade for this course is exclusively determined by the project handed in. The project will be judged on a number of dimensions, these include:

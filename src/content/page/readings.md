@@ -6,7 +6,7 @@ markup: mmark
 
 
 Textbook for general introduction to social data science:  
-- **[Big by Bit - Social research in the digital age](https://www.bitbybitbook.com/)** by Matthew J. Salganik **[BBB]**
+- **[Big by Bit - Social research in the digital age](https://www.bitbybitbook.com/)** by Matthew J. Salganik **[BBB]**, free online version [here](https://www.bitbybitbook.com/en/1st-ed/preface/).
 
 Textbooks for data science in Python   
 - **[Python for Data Analysis, 2nd ed.](http://wesmckinney.com/pages/book.html)** (2017) by Wes McKinney **[PDA]**

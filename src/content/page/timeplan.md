@@ -11,10 +11,10 @@ This page contains a schedule of the teaching sessions. It also contains link to
 Date  | Time  | Title | Lecturer | Slides |  Exercises
 ------|------:|-------|:--------:|:------:|------
       |       | ---------   Week 1  --------- | | |
-Aug 13|  9-10 | 1a. SDS intro  | DDL | |
+Aug 13|  9-10 | 1a. SDS intro  | DDL | [key](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1a.key), [pdf](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1a.pdf) |
 Aug 13| 10-12 | 1b. Python intro  | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1b.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_1/lecture_1b.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_1/exercise_1.ipynb)
-Aug 13| 13-16 | 2. Reproducible research | KG | |
-Aug 14|  9-12 | 3. Strings, queries and APIs | ABN | |
+Aug 13| 13-16 | 2. Reproducible research | KG | [nb](https://github.com/abjer/sds/blob/master/material/session_2/lecture_2.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_2/lecture_2.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_2/exercise_2.ipynb)
+Aug 14|  9-12 | 3. Strings, queries and APIs | ABN| [nb](https://github.com/abjer/sds/blob/master/material/session_3/lecture_3.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_3/lecture_3.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_3/exercise_3.ipynb)
 Aug 14| 13-16 | 4. Data structuring 1 | ABN | |
 Aug 15|  9-12 | 5. Visualizations 1 | ABN | |
 Aug 15| 13-16 | 6. Data structuring 2 | ABN | |
@@ -62,7 +62,8 @@ Aug 28| 13-16 |  *(brainstorm & supervision)* | TAs | |
 - NB! When you make changes to your Notebooks, make a copy of the file, with a now name. Else you risk overwriting your changes, the next time you update the repository.
 
 #### Legend
-- nb: Slides in Notebook format
+- nb: Slides in Jupyter Notebook format
 - pdf: Slides in pdf format
 - ex: Exercise ready to be made
 - sol: Solution for exercise (Without solutions to the exercises you have to hand in)
+- key: Slides in Apple Keynote format

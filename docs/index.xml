@@ -29,7 +29,7 @@ Keyboard short cuts Editing and executing cells - enter edit mode: click inside 
       <author>sodas@ku.dk (Center for Social Data Science)</author>
       <guid>https://abjer.github.io/sds/page/readings/</guid>
       <description>Textbook for general introduction to social data science:
- Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB]  Textbooks for data science in Python
+ Big by Bit - Social research in the digital age by Matthew J. Salganik [BBB], free online version here.  Textbooks for data science in Python
  Python for Data Analysis, 2nd ed. (2017) by Wes McKinney [PDA] Python Machine Learning, 2nd ed. (2017) by Sebastian Raschka &amp;amp; Vahid Mirjalili [PML]  Session 1a &amp;amp; 1b: Introduction to SDS and Python We introduce the field and provide an overview of course logistics.</description>
     </item>
     
@@ -61,7 +61,7 @@ Groups On the first day we will assign you to a group. The assignment to groups 
       <guid>https://abjer.github.io/sds/page/timeplan/</guid>
       <description>This page contains a schedule of the teaching sessions. It also contains link to the material once it is ready.
 
-   Date Time Title Lecturer Slides Exercises       --------- Week 1 ---------      Aug 13 9-10 1a. SDS intro DDL     Aug 13 10-12 1b. Python intro ABN nb, pdf ex   Aug 13 13-16 2.</description>
+   Date Time Title Lecturer Slides Exercises       --------- Week 1 ---------      Aug 13 9-10 1a. SDS intro DDL key, pdf    Aug 13 10-12 1b. Python intro ABN nb, pdf ex   Aug 13 13-16 2.</description>
     </item>
     
     <item>
@@ -71,6 +71,16 @@ Groups On the first day we will assign you to a group. The assignment to groups 
       <author>sodas@ku.dk (Center for Social Data Science)</author>
       <guid>https://abjer.github.io/sds/page/timeplan---copy/</guid>
       <description>|Date | Time | Title | Lecturer | Slides | Exercises | |:&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;:|:&amp;ndash; &amp;mdash;|:&amp;mdash;&amp;ndash;:|:&amp;mdash;&amp;ndash;| | | | | &amp;mdash;&amp;mdash;&amp;mdash; Week 1 &amp;mdash;&amp;mdash;&amp;mdash; | | | | |Aug 13| 9-10 | 1a. SDS intro | DDL | pdf| | |Aug 13| 10-12 | 1b. Python intro | ABN | pdf, nb| | |Aug 13| 13-16 | 2. Reproducible research | KPG | | | |Aug 14| 9-12 | 3. Strings, queries and APIs | ABN | | | |Aug 14| 13-16 | 4.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://abjer.github.io/sds/post/exam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds/post/exam/</guid>
+      <description>Exam project When the teaching in our course finishes you are to hand in a project. The formal requirements are found here.
+In this blog post we want to expand a little bit on how a good project will look. The focus of the project is to pose and interesting question to data that can be collected publicly and attempt to answer it. Some good projects use machine learning for modelling a variable of interest, while some good projects use machine learning to parse text data.</description>
     </item>
     
     <item>
