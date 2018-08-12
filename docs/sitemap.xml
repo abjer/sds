@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://abjer.github.io/sds/post/exam/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://abjer.github.io/sds/post/jupyter/</loc>
     <lastmod>2018-07-19T00:00:00+00:00</lastmod>
   </url>
@@ -29,19 +34,7 @@
   
   <url>
     <loc>https://abjer.github.io/sds/</loc>
-    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://abjer.github.io/sds/page/timeplan---copy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://abjer.github.io/sds/post/exam/</loc>
-  </url>
-  
-  <url>
-    <loc>https://abjer.github.io/sds/posts/install/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -57,12 +50,7 @@
   
   <url>
     <loc>https://abjer.github.io/sds/post/</loc>
-    <lastmod>2018-07-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://abjer.github.io/sds/posts/</loc>
+    <lastmod>2018-08-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

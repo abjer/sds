@@ -44,14 +44,5 @@ Groups On the first day we will assign you to a group. The assignment to groups 
    Date Time Title Lecturer Slides Exercises       --------- Week 1 ---------      Aug 13 9-10 1a. SDS intro DDL key, pdf    Aug 13 10-12 1b. Python intro ABN nb, pdf ex   Aug 13 13-16 2.</description>
     </item>
     
-    <item>
-      <title></title>
-      <link>https://abjer.github.io/sds/page/timeplan---copy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>sodas@ku.dk (Center for Social Data Science)</author>
-      <guid>https://abjer.github.io/sds/page/timeplan---copy/</guid>
-      <description>|Date | Time | Title | Lecturer | Slides | Exercises | |:&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;:|:&amp;ndash; &amp;mdash;|:&amp;mdash;&amp;ndash;:|:&amp;mdash;&amp;ndash;| | | | | &amp;mdash;&amp;mdash;&amp;mdash; Week 1 &amp;mdash;&amp;mdash;&amp;mdash; | | | | |Aug 13| 9-10 | 1a. SDS intro | DDL | pdf| | |Aug 13| 10-12 | 1b. Python intro | ABN | pdf, nb| | |Aug 13| 13-16 | 2. Reproducible research | KPG | | | |Aug 14| 9-12 | 3. Strings, queries and APIs | ABN | | | |Aug 14| 13-16 | 4.</description>
-    </item>
-    
   </channel>
 </rss>
