@@ -78,6 +78,6 @@ pygmentsCodefencesGuessSyntax = true
       weight = 2
   [[menu.main]]
       parent = "posts"
-      name = "Jupyter tips"
+      name = "Exam info"
       url = "post/exam"
       weight = 3
