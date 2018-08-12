@@ -52,7 +52,6 @@ A broad, early, and easy-to-read idea of data driven (social) science:
 We introduce Git for handling and sharing your code as well as Markdown for writing. These two tools have the potential to greatly enhance your productivity.
 
 #### Required reading
-- BBB: Chapter 3 & 4
 - Nolan, John. 2015. "[How to Write Faster, Better & Longer: The Ultimate Guide to Markdown](https://blog.ghost.org/markdown/)."
 - Jones, Zachery. 2015. "[Git & Github tutorial](http://zmjones.com/git-github-tutorial/)".
 - Note that an optional followup can be found in Rainey, Carlisle. 2015. "[Git for Political Science](https://github.com/carlislerainey/git-for-political-science)".
