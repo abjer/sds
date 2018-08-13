@@ -99,6 +99,7 @@ We introduce visualizations in Python. We use [pandas](http://pandas.pydata.org/
 
 - Schwabish, Jonathan A. 2014. "[An Economist's Guide to Visualizing Data](https://www.aeaweb.org/articles.php?doi=10.1257/jep.28.1.209)". *Journal of Economic Perspectives*, 28(1): 209-34.
 - Healy, Kieran and James Moody. 2014. "[Data Visualization in Sociology](http://kieranhealy.org/files/papers/data-visualization.pdf)". *Annual Review of Sociology*, 40:105–128.
+- Cherdarchuk, Joey. 2013. "[Data Looks Better Naked](https://www.darkhorseanalytics.com/blog/data-looks-better-naked/)", blog post.
 
 
 ## Sessions 6: Data structuring 2
