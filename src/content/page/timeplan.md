@@ -16,7 +16,7 @@ Aug 13| 10-12 | 1b. Python intro  | ABN | [nb](https://github.com/abjer/sds/blob
 Aug 13| 13-16 | 2. Reproducible research | KG | [nb](https://github.com/abjer/sds/blob/master/material/session_2/lecture_2.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_2/lecture_2.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_2/exercise_2.ipynb), [sol](https://github.com/abjer/sds/blob/master/material/session_2/exercise_2_sol.ipynb)
 Aug 14|  9-12 | 3. Strings, queries and APIs | ABN| [nb](https://github.com/abjer/sds/blob/master/material/session_3/lecture_3.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_3/lecture_3.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_3/exercise_3.ipynb)
 Aug 14| 13-16 | 4. Data structuring 1 | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_4/lecture_4.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_4/lecture_4.pdf)|[ex](https://github.com/abjer/sds/blob/master/material/session_4/exercise_4.ipynb)
-Aug 15|  9-12 | 5. Visualizations | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_5/lecture_5.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_5/lecture_5.pdf) |
+Aug 15|  9-12 | 5. Visualizations | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_5/lecture_5.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_5/lecture_5.pdf) | [ex](https://github.com/abjer/sds/blob/master/material/session_5/exercise_5.ipynb)
 Aug 15| 13-16 | 6. Data structuring 2 | ABN | |
 Aug 16|  9-12 | 7. Data structuring 3 | ABN| |
 Aug 16| 13-16 | 8. Scraping 1 | SR | |
