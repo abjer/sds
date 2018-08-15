@@ -299,4 +299,4 @@ Some students may have noticed that the course in 2015 and 2016 used R for data 
 
 - [Python vs. R](https://www.quora.com/Which-is-better-for-data-analysis-R-or-Python)
 
-If you are already familiar with R and prefer to work with R in the exercises you may look Kosuke Imai's book on Quantitative Social Science and looking up earlier year's references [here](http://sebastianbarfort.github.io/sds_summer/). Note that we do not offer any support in terms of coding and supervising in R.
+If you are already familiar with R and prefer to work with R in the exercises you may look Kosuke Imai's book on Quantitative Social Science and looking up earlier year's references [here](http://sebastianbarfort.github.io/sds_summer/). Note that all assignments and the exam is required to be in Python. 
