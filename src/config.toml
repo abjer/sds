@@ -81,3 +81,8 @@ pygmentsCodefencesGuessSyntax = true
       name = "Exam info"
       url = "post/exam"
       weight = 3
+  [[menu.main]]
+      parent = "posts"
+      name = "Assignment info"
+      url = "post/assignment"
+      weight = 4
