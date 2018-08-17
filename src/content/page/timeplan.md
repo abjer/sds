@@ -21,8 +21,8 @@ Aug 15| 13-16 | 6. Data structuring 2 | ABN |[nb](https://github.com/abjer/sds/b
 Aug 16|  9-12 | 7. Data structuring 3 | ABN|[nb](https://github.com/abjer/sds/blob/master/material/session_7/lecture_7.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_7/lecture_7.pdf) | [ex](https://github.com/abjer/sds/blob/master/material/session_7/exercise_7.ipynb),[sol](https://github.com/abjer/sds/blob/master/material/session_7/exercise_7_sol.ipynb)
 Aug 16| 13-16 | 8. Scraping 1 | SR |[nb](https://github.com/abjer/sds/blob/master/material/session_8/lecture_8.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_8/lecture_8.pdf) | [ex](https://github.com/abjer/sds/blob/master/material/session_8/exercise_8.ipynb), [sol](https://github.com/abjer/sds/blob/master/material/session_8/exercise_8_sol.ipynb)
 Aug 17|  9-12 | 9. Scraping 2 | SR | [nb](https://github.com/abjer/sds/blob/master/material/session_9/lecture_9.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_9/lecture_9.pdf)| [ex](https://github.com/abjer/sds/blob/master/material/session_9/exercise_9.ipynb)
-Aug 17| 13-.. | 10a. Big Data Intro | DDL | [ppt](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10a.ppt), [pdf](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10a.pdf) |
-Aug 17| ..-16 | 10b. Ethics | DDL | [ppt](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10b.ppt), [pdf](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10b.pdf) |
+Aug 17| 13-.. | 10a. Big Data Intro | DDL | [pptx](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10a.pptx), [pdf](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10a.pdf) |
+Aug 17| ..-16 | 10b. Ethics | DDL | [pptx](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10b.pptx), [pdf](https://github.com/abjer/sds/blob/master/material/session_10/lecture_10b.pdf) |
       |       | ---------   Week 2  --------- | | |
 Aug 20|  9-12 | 11. Machine learning intro | ABN |  |
 Aug 20| 13-16 | 12. Supervised learning 1 | ABN | |
@@ -68,4 +68,4 @@ Aug 28| 13-16 |  *(brainstorm & supervision)* | TAs | |
 - ex: Exercise ready to be made
 - sol: Solution for exercise (Without solutions to the exercises you have to hand in)
 - key: Slides in Apple Keynote format
-- ppt: PowerPoint slides
+- pptx: PowerPoint slides
