@@ -26,7 +26,7 @@ Aug 17| ..-16 | 10b. Ethics | DDL | [pptx](https://github.com/abjer/sds/blob/mas
       |       | ---------   Week 2  --------- | | |
 Aug 20|  9-12 | 11. Machine learning intro | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_11/lecture_11.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_11/lecture_11.pdf)| [ex](https://github.com/abjer/sds/blob/master/material/session_11/exercise_11.ipynb)
 Aug 20| 13-16 | 12. Supervised learning 1 | ABN |  [nb](https://github.com/abjer/sds/blob/master/material/session_12/lecture_12.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_12/lecture_12.pdf)| [ex](https://github.com/abjer/sds/blob/master/material/session_12/exercise_12.ipynb)
-Aug 21|  9-12 | 13. Supervised learning 2 | ABN | |
+Aug 21|  9-12 | 13. Supervised learning 2 | ABN | [nb](https://github.com/abjer/sds/blob/master/material/session_13/lecture_13.ipynb), [pdf](https://github.com/abjer/sds/blob/master/material/session_13/lecture_13.pdf)| [ex](https://github.com/abjer/sds/blob/master/material/session_13/exercise_13.ipynb)
 Aug 21| 13-16 | 14. Supervised learning 3 | ABN | |
 Aug 22|  9-12 | 15. Text as data 1 | SR | |
 Aug 22| 13-16 | 16. Cluster analysis | SR | |
