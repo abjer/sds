@@ -7,10 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>sodas@ku.dk (Center for Social Data Science)</managingEditor>
     <webMaster>sodas@ku.dk (Center for Social Data Science)</webMaster>
-    <lastBuildDate>Thu, 16 Aug 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Aug 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://abjer.github.io/sds/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Peergrade and A2</title>
+      <link>https://abjer.github.io/sds/post/assignment2/</link>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0000</pubDate>
+      <author>sodas@ku.dk (Center for Social Data Science)</author>
+      <guid>https://abjer.github.io/sds/post/assignment2/</guid>
+      <description>Some of you have had problems submitting to peergrade. Hopefully these problems are fixed now - if not, a workaround has been proposes here:
+https://github.com/abjer/sds/issues/19
+The assignment is still due at 23:59 today.
+If you still encounter problems handing in, please submit a github issue on the repository.</description>
+    </item>
     
     <item>
       <title>Assignments (Updated!)</title>
