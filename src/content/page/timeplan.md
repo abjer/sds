@@ -32,7 +32,7 @@ Aug 22|  9-12 | 15. Text as data 1 | SR |[nb](https://github.com/abjer/sds/blob/
 Aug 22| 13-16 | 16. Cluster analysis | SR |[nb](https://github.com/abjer/sds/blob/master/material/session_16/lecture_16.ipynb), [html](https://github.com/abjer/sds/blob/master/material/session_16/lecture_16.slides.html) |[ex](https://github.com/abjer/sds/blob/master/material/session_16/exercise_16.ipynb), [sol](https://github.com/abjer/sds/blob/master/material/session_16/exercise_16_sol.ipynb)
 Aug 23|  9-12 | 17. Text as data 2 | SR | [nb](https://github.com/abjer/sds/blob/master/material/session_17/lecture_17.ipynb), [html](https://github.com/abjer/sds/blob/master/material/session_17/lecture_17.slides.html)| [ex](https://github.com/abjer/sds/blob/master/material/session_17/exercise_17.ipynb), [sol](https://github.com/abjer/sds/blob/master/material/session_17/exercise_17_sol.ipynb)
 Aug 23| 13-16 |  *(brainstorm & supervision)* | TAs | |
-Aug 24|  9-12 | 18. Tools for Big Data | UA | [key](https://github.com/abjer/sds/blob/master/material/session_18/slides_session19.key), [nb](https://github.com/abjer/sds/blob/master/material/session_18/slides_session19.pdf)  | [ex](https://github.com/abjer/sds/blob/master/material/session_18/exercises_week8.ipynb)
+Aug 24|  9-12 | 18. Tools for Big Data | UA | [key](https://github.com/abjer/sds/blob/master/material/session_18/slides_session19.key), [pdf](https://github.com/abjer/sds/blob/master/material/session_18/slides_session19.pdf)  | [ex](https://github.com/abjer/sds/blob/master/material/session_18/exercises_week8.ipynb)
 Aug 24| 13-16 |  *(brainstorm & supervision)* | TAs | |
       |       | ---------   Week 3  --------- | | |
 Aug 27| 13-16 |  *(brainstorm & supervision)* | TAs | |
