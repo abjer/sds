@@ -49,10 +49,13 @@ The exam projects have a number of requirements that must be met, these are: req
 - Groups with three to four members
 - Project formalia
   - Project must consist of a report (.pdf file) and a documentation as Jupyter Notebook (.ipynb file).
-  - The report should be written like a brief research article (short literature review, references to methods etc.). The report is limited to the following maximum number of pages (normalsider):
+  - The report should be written like a brief research article (short literature review, references to methods, results etc.). The report is limited to the following maximum number of pages (normalsider).
+    - 2 members, 16 pages;
     - 3 members, 20 pages;
-    - 4 members, 24 pages.
-  - Grading will be based on the report but process should but data collection, computations etc. should be well documented in the supporting Jupyter Notebook.
+    - 4 members, 24 pages.  
+    - Note that 1 page (normalside) corresponds 2,400 and does not count figures, abstract, list of reference, frontpage, appendix.
+    - The report should contain your exam numbers and possibly your names (optional). The exam numbers (or names) MUST show who contributed with writing which parts of the report. At most 20 pct. of the report can be written shared. If you fail to provide this the submission of your project may get rejected!
+  - Grading will be based on the report but process but data collection, computations etc. should be well documented in the supporting Jupyter Notebook.
 
 
 ### Possible data sources
