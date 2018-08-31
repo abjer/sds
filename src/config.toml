@@ -87,3 +87,8 @@ pygmentsCodefencesGuessSyntax = true
       name = "Assignment info"
       url = "post/assignment"
       weight = 4
+  [[menu.main]]
+      parent = "posts"
+      name = "The path forward"
+      url = "post/beyond_sds"
+      weight = 5
